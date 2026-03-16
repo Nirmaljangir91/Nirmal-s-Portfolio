@@ -88,21 +88,19 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h4>Building Modern Interactive Interfaces</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Creating responsive and visually engaging user interfaces with
+                modern frontend technologies and clean design systems.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
+                <div className="what-tags">React</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
+                <div className="what-tags">TypeScript</div>
                 <div className="what-tags">CSS3</div>
+                <div className="what-tags">HTML5</div>
+                <div className="what-tags">Material UI</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -127,21 +125,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h4>Building Full-Stack Application Backends</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Developing server-side applications, APIs, and database-driven
+                systems with a focus on scalable full-stack development.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">MongoDB</div>
+                <div className="what-tags">MySQL</div>
                 <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">REST API</div>
                 <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
               </div>
               <div className="what-arrow"></div>
             </div>

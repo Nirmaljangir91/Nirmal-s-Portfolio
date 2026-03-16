@@ -15,43 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Started Engineering</h4>
+                <h5>BIET, Sikar</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Began my engineering journey and developed a strong interest in technology, problem solving, and software development.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Entered Web Developmentr</h4>
+                {/* <h5>Self</h5> */}
               </div>
-              <h3>2021</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+            Started learning modern web development, focusing on frontend technologies and building interactive websites using tools like HTML, CSS, JavaScript, React, and Tailwind CSS.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>MERN Stack Developer</h4>
+                <h5>Grass solutions pvt. ltd. jaipur</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Expanded my skills into full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js). Built several personal projects to gain real-world development experience and understand backend architecture.
+            </p>
+          </div>
+            <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>3D Web & Modern UI Development</h4>
+                {/* <h5></h5> */}
+              </div>
+              <h3>Now</h3>
+            </div>
+            <p>
+           Currently focusing on creating modern web interfaces and immersive 3D web experiences using technologies like Three.js and modern frontend frameworks, while continuing to build full-stack projects with the MERN stack
             </p>
           </div>
         </div>

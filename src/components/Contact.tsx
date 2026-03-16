@@ -10,17 +10,17 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:jangirsarwan91@gmail.com" data-cursor="disable">
+                jangirsarwan91@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>Engineering Student</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://github.com/Nirmaljangir91"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -28,7 +28,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://www.linkedin.com/in/nirmal-jangir-48542532a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,15 +36,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="https://www.instagram.com/nirmal__jangir91/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -54,7 +46,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Nirmal Jangir</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
